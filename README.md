@@ -10,6 +10,7 @@ pip install faker
 
 pip install hashlib
 
+pip3 install cryptodome
 ```
 TO RUN FILES JUST TYPE
 ```
