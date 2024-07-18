@@ -13,13 +13,14 @@ pip install hashlib
 ```
 TO RUN FILES JUST TYPE
 ```
-python JimmyV1.py
+python run.py
 ```
-👉For pc use  Command Prompt <br>
-👉For android use  Pydroid 3
+👉For Linux Python3
+👉For android use  Python
   
 Report Bugs, Give Feature Requests There..   
 
 ##
 ah whatever 🤣
-edited:-Jimmy🎀
+Author:-Jimmy🦋
+
